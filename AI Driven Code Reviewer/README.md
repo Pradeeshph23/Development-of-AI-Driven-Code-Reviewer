@@ -6,6 +6,10 @@ SynnccIT is a modern, modular, and AI-driven Integrated Development Environment 
 
 https://synncc-it.vercel.app/
 
+# Demo Video Link:
+
+https://drive.google.com/file/d/1yjXU_bj0zNZvm_NtFq0hnSJyUqow0fyF/view?usp=sharing
+
 ## 🚀 Key Features
 
 - **AI Agent Integration**: Built-in AI assistant to help with code generation, terminal command translation, and planning.
