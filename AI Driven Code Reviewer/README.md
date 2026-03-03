@@ -2,7 +2,7 @@
 
 SynnccIT is a modern, modular, and AI-driven Integrated Development Environment (IDE) built for the next generation of developers. It combines a sleek, responsive frontend with a distributed backend architecture to provide powerful coding, testing, and AI assistant capabilities.
 
-#Deployment Link:
+# Deployment Link:
 
 https://synncc-it.vercel.app/
 
